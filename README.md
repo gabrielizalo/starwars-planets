@@ -20,6 +20,8 @@ Just a React exercise.
 - [npm package gh-pages](https://www.npmjs.com/package/gh-pages):
   Publish files to a gh-pages branch on GitHub (or any other branch
   anywhere else).
+- [MUI React UI framework](https://mui.com/): The React UI library you
+  always wanted.
 
 
 ## Available Scripts
