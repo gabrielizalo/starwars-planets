@@ -1,23 +1,21 @@
 {
   "files": {
-    "main.css": "/starwars-planets/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/starwars-planets/static/js/main.5f437980.chunk.js",
-    "main.js.map": "/starwars-planets/static/js/main.5f437980.chunk.js.map",
-    "runtime-main.js": "/starwars-planets/static/js/runtime-main.e30731fd.js",
-    "runtime-main.js.map": "/starwars-planets/static/js/runtime-main.e30731fd.js.map",
-    "static/js/2.cfc6f3fe.chunk.js": "/starwars-planets/static/js/2.cfc6f3fe.chunk.js",
-    "static/js/2.cfc6f3fe.chunk.js.map": "/starwars-planets/static/js/2.cfc6f3fe.chunk.js.map",
-    "static/js/3.65ed7e35.chunk.js": "/starwars-planets/static/js/3.65ed7e35.chunk.js",
-    "static/js/3.65ed7e35.chunk.js.map": "/starwars-planets/static/js/3.65ed7e35.chunk.js.map",
+    "main.css": "/starwars-planets/static/css/main.1d8f2660.chunk.css",
+    "main.js": "/starwars-planets/static/js/main.1fe25c0c.chunk.js",
+    "main.js.map": "/starwars-planets/static/js/main.1fe25c0c.chunk.js.map",
+    "runtime-main.js": "/starwars-planets/static/js/runtime-main.0f19c99a.js",
+    "runtime-main.js.map": "/starwars-planets/static/js/runtime-main.0f19c99a.js.map",
+    "static/js/2.65dcd0d6.chunk.js": "/starwars-planets/static/js/2.65dcd0d6.chunk.js",
+    "static/js/2.65dcd0d6.chunk.js.map": "/starwars-planets/static/js/2.65dcd0d6.chunk.js.map",
     "index.html": "/starwars-planets/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/starwars-planets/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.cfc6f3fe.chunk.js.LICENSE.txt": "/starwars-planets/static/js/2.cfc6f3fe.chunk.js.LICENSE.txt",
+    "static/css/main.1d8f2660.chunk.css.map": "/starwars-planets/static/css/main.1d8f2660.chunk.css.map",
+    "static/js/2.65dcd0d6.chunk.js.LICENSE.txt": "/starwars-planets/static/js/2.65dcd0d6.chunk.js.LICENSE.txt",
     "static/media/starwars-planets-header.f99c29b8.png": "/starwars-planets/static/media/starwars-planets-header.f99c29b8.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.e30731fd.js",
-    "static/js/2.cfc6f3fe.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.5f437980.chunk.js"
+    "static/js/runtime-main.0f19c99a.js",
+    "static/js/2.65dcd0d6.chunk.js",
+    "static/css/main.1d8f2660.chunk.css",
+    "static/js/main.1fe25c0c.chunk.js"
   ]
 }
