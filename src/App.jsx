@@ -3,7 +3,7 @@ import { CssBaseline } from '@mui/material';
 
 import Home from './pages/Home/Home';
 
-function App () {
+function App() {
   return (
     <Fragment>
       <CssBaseline />

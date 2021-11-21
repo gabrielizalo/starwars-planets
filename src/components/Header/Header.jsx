@@ -4,7 +4,7 @@ import { useMediaQuery } from '@mui/material';
 import starWarsLogoLandscape from '../../assets/starwars-planets-header-landscape.png';
 import starWarsLogoPortrait from '../../assets/starwars-planets-header-portrait.png';
 
-function Header () {
+function Header() {
   const isPortrait = useMediaQuery('(orientation: portrait)');
 
   return (
@@ -12,7 +12,7 @@ function Header () {
       <img
         src={isPortrait ? starWarsLogoPortrait : starWarsLogoLandscape}
         alt="StarWars Planets"
-        width='100%'
+        width="100%"
       />
     </header>
   );
