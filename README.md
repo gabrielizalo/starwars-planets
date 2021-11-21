@@ -25,6 +25,13 @@ Just a React exercise.
 - [Airbnb JavaScript Style Guide](https://airbnb.io/javascript/react/):
   A mostly reasonable approach to React and JSX.
 
+# StarWars Credits
+
+- Logo: [png :egg: egg](https://www.pngegg.com/es/png-evbry)
+- Icon: [Starwars Icon Set by Sherzod Mirzaakhmedov](https://dribbble.com/shots/3907212-Starwars-Icon-Set)
+- Font: [Star Jedi Font by Boba Fonts](https://www.fontspace.com/star-jedi-font-f9641)
+- Wallpaper: [Pinterest](https://co.pinterest.com/pin/116249234110084856/)
+
 ## Available Scripts
 
 In the project directory, you can run:
