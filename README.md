@@ -22,6 +22,10 @@ Just a React exercise.
   anywhere else).
 - [MUI React UI framework](https://mui.com/): The React UI library you
   always wanted.
+- [ESLint](https://eslint.org/): Find and fix problems in your
+  JavaScript code.
+- [Airbnb JavaScript Style Guide](https://airbnb.io/javascript/react/):
+  A mostly reasonable approach to React and JSX.
 
 
 ## Available Scripts
