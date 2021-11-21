@@ -6,7 +6,6 @@ List any dependencies that are required for this change.
 
 Fixes # (issue)
 
-
 ## Type of change
 
 Please delete options that are not relevant.
@@ -20,7 +19,6 @@ Please delete options that are not relevant.
 - [ ] refactor: A code change that neither fixes a bug nor adds a feature
 - [ ] perf: A code change that improves performance
 - [ ] test: Adding missing tests or correcting existing tests
-
 
 # Checklist
 

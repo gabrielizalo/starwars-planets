@@ -1,17 +1,21 @@
-import React from "react";
-import {useMediaQuery } from "@mui/material";
+import React from 'react';
+import { useMediaQuery } from '@mui/material';
 
-import starWarsLogoLandscape from "../../assets/starwars-planets-header-landscape.png";
-import starWarsLogoPortrait from "../../assets/starwars-planets-header-portrait.png";
+import starWarsLogoLandscape from '../../assets/starwars-planets-header-landscape.png';
+import starWarsLogoPortrait from '../../assets/starwars-planets-header-portrait.png';
 
-const Header = () =>  {
+const Header = () => {
   const isPortrait = useMediaQuery('(orientation: portrait)');
 
   return (
     <header>
-      <img src={isPortrait ? starWarsLogoPortrait : starWarsLogoLandscape} alt="StarWars Planets" width={'100%'} />
+      <img
+        src={isPortrait ? starWarsLogoPortrait : starWarsLogoLandscape}
+        alt="StarWars Planets"
+        width={'100%'}
+      />
     </header>
   );
-}
+};
 
 export default Header;

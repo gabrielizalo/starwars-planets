@@ -2,11 +2,9 @@
   <img src="assets/readme-header.png" alt="Bear Stone Smart Home" />
 </h1>
 
-
 # Motivation
 
 Just a React exercise.
-
 
 # Tech Stack
 
@@ -26,7 +24,6 @@ Just a React exercise.
   JavaScript code.
 - [Airbnb JavaScript Style Guide](https://airbnb.io/javascript/react/):
   A mostly reasonable approach to React and JSX.
-
 
 ## Available Scripts
 
@@ -56,4 +53,3 @@ Your app is ready to be deployed!
 ### `npm run deploy`
 
 Publish build files to [project GitHub Page](https://gabrielizalo.github.io/starwars-planets/).
-
