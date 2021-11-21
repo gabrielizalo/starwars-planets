@@ -1,13 +1,14 @@
-import starWarsLogo from './assets/starwars-planets-header.png';
-import './App.css';
+import {Fragment} from "react";
+import {CssBaseline} from "@mui/material";
 
-function App() {
+import Home from "./pages/Home/Home";
+
+const App = () => {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={starWarsLogo} className="StarWars Planets" alt="StarWars Planets" />
-      </header>
-    </div>
+    <Fragment>
+      <CssBaseline/>
+      <Home/>
+    </Fragment>
   );
 }
 
