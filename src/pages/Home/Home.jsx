@@ -6,7 +6,7 @@ import starWarsBackgroundLandscape from '../../assets/starwars-planets-bg-landsc
 import starWarsBackgroundPortrait from '../../assets/starwars-planets-bg-portrait.jpg';
 import { starWarsTheme } from '../../common/constants';
 
-const Home = () => {
+function Home () {
   const isPortrait = useMediaQuery('(orientation: portrait)');
 
   return (
@@ -30,6 +30,6 @@ const Home = () => {
       </Box>
     </ThemeProvider>
   );
-};
+}
 
 export default Home;

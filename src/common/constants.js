@@ -1,6 +1,6 @@
 import { createTheme } from '@mui/system';
 
-export const starWarsTheme = createTheme({
+const starWarsTheme = createTheme({
   palette: {
     background: {
       paper: '#C8CACF'
@@ -11,3 +11,5 @@ export const starWarsTheme = createTheme({
     }
   }
 });
+
+export default starWarsTheme;

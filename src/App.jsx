@@ -3,13 +3,13 @@ import { CssBaseline } from '@mui/material';
 
 import Home from './pages/Home/Home';
 
-const App = () => {
+function App () {
   return (
     <Fragment>
       <CssBaseline />
       <Home />
     </Fragment>
   );
-};
+}
 
 export default App;
