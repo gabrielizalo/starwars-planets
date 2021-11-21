@@ -1,6 +1,7 @@
 import { createTheme } from '@mui/system';
 
-const starWarsTheme = createTheme({
+/* eslint-disable import/prefer-default-export */
+export const starWarsTheme = createTheme({
   palette: {
     background: {
       paper: '#C8CACF'
@@ -11,5 +12,3 @@ const starWarsTheme = createTheme({
     }
   }
 });
-
-export default starWarsTheme;
