@@ -24,6 +24,8 @@ Just a React exercise.
   JavaScript code.
 - [Airbnb JavaScript Style Guide](https://airbnb.io/javascript/react/):
   A mostly reasonable approach to React and JSX.
+- [HTML5 Boilerplate](https://html5boilerplate.com/): The web’s most
+  popular front-end template
 
 # StarWars Credits
 

@@ -1,0 +1,11 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Gabriel Porras -- Developer -- @gabrielizalo
+
+# TECHNOLOGY COLOPHON
+
+    CSS3, HTML5
+    React, MUI React UI framework
