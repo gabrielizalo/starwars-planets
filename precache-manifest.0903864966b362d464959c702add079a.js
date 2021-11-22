@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "111e5416c2d8f874e8c97b8b7aa3b2f9",
+    "revision": "872599ebe537c76cdcf24db8b769c37e",
     "url": "/starwars-planets/index.html"
   },
   {
