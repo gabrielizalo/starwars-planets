@@ -1,5 +1,5 @@
 import React from 'react';
-import { Box, Stack, ThemeProvider, useMediaQuery } from '@mui/material';
+import { Box, Container, Grid, ThemeProvider, useMediaQuery } from '@mui/material';
 
 import Header from '../../components/Header/Header';
 import starWarsBackgroundLandscape from '../../assets/starwars-planets-bg-landscape.jpg';
@@ -19,14 +19,22 @@ function Home() {
           })`,
           backgroundRepeat: 'no-repeat',
           backgroundPosition: 'top center',
-          bgcolor: 'background.paper',
-          minWidth: '100%',
-          p: 2
+          bgcolor: 'background.paper'
         }}
       >
-        <Stack alignItems="center" spacing={2}>
-          <Header />
-        </Stack>
+        <Container maxWidth="md">
+          <Grid
+            alignItems="center"
+            container
+            direction="column"
+            justifyContent="center"
+            sx={{
+              p: 2
+            }}
+          >
+            <Header />
+          </Grid>
+        </Container>
       </Box>
     </ThemeProvider>
   );
