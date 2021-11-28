@@ -34,6 +34,8 @@ Just a React exercise.
 - Icon: [Starwars Icon Set by Sherzod Mirzaakhmedov](https://dribbble.com/shots/3907212-Starwars-Icon-Set)
 - Font: [Star Jedi Font by Boba Fonts](https://www.fontspace.com/star-jedi-font-f9641)
 - Wallpaper: [Pinterest](https://co.pinterest.com/pin/116249234110084856/)
+- Planets Images: [Wookieepedia](https://starwars.fandom.com/)
+- Small Icons: [Simple Small Icons by icons8](https://icons8.com/icons/small)
 
 ## Available Scripts
 

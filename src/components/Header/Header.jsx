@@ -8,7 +8,7 @@ function Header() {
   const isPortrait = useMediaQuery('(orientation: portrait)');
 
   return (
-    <Grid item>
+    <Grid item sx={{ marginBottom: 2 }}>
       <header>
         <img
           alt="StarWars Planets"
