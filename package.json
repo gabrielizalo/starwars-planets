@@ -19,6 +19,14 @@
       "react-app/jest"
     ]
   },
+  "prettier": {
+    "semi": true,
+    "tabWidth": 2,
+    "printWidth": 100,
+    "singleQuote": true,
+    "trailingComma": "none",
+    "jsxBracketSameLine": false
+  },
   "plugins": [
     "@semantic-release/commit-analyzer",
     "@semantic-release/release-notes-generator",
