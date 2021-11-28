@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.js": "/starwars-planets/static/js/main.81b95da5.chunk.js",
-    "main.js.map": "/starwars-planets/static/js/main.81b95da5.chunk.js.map",
+    "main.js": "/starwars-planets/static/js/main.3d10153b.chunk.js",
+    "main.js.map": "/starwars-planets/static/js/main.3d10153b.chunk.js.map",
     "runtime-main.js": "/starwars-planets/static/js/runtime-main.c3acde43.js",
     "runtime-main.js.map": "/starwars-planets/static/js/runtime-main.c3acde43.js.map",
-    "static/js/2.20c9409d.chunk.js": "/starwars-planets/static/js/2.20c9409d.chunk.js",
-    "static/js/2.20c9409d.chunk.js.map": "/starwars-planets/static/js/2.20c9409d.chunk.js.map",
+    "static/js/2.111165c4.chunk.js": "/starwars-planets/static/js/2.111165c4.chunk.js",
+    "static/js/2.111165c4.chunk.js.map": "/starwars-planets/static/js/2.111165c4.chunk.js.map",
     "index.html": "/starwars-planets/index.html",
-    "precache-manifest.0903864966b362d464959c702add079a.js": "/starwars-planets/precache-manifest.0903864966b362d464959c702add079a.js",
+    "precache-manifest.1a22370ecc26210eb2036f743a343148.js": "/starwars-planets/precache-manifest.1a22370ecc26210eb2036f743a343148.js",
     "service-worker.js": "/starwars-planets/service-worker.js",
-    "static/js/2.20c9409d.chunk.js.LICENSE.txt": "/starwars-planets/static/js/2.20c9409d.chunk.js.LICENSE.txt",
+    "static/js/2.111165c4.chunk.js.LICENSE.txt": "/starwars-planets/static/js/2.111165c4.chunk.js.LICENSE.txt",
     "static/media/starwars-planets-bg-landscape.jpg": "/starwars-planets/static/media/starwars-planets-bg-landscape.0b703568.jpg",
     "static/media/starwars-planets-bg-portrait.jpg": "/starwars-planets/static/media/starwars-planets-bg-portrait.766f0ee1.jpg",
     "static/media/starwars-planets-header-landscape.png": "/starwars-planets/static/media/starwars-planets-header-landscape.00355ad8.png",
@@ -17,7 +17,7 @@
   },
   "entrypoints": [
     "static/js/runtime-main.c3acde43.js",
-    "static/js/2.20c9409d.chunk.js",
-    "static/js/main.81b95da5.chunk.js"
+    "static/js/2.111165c4.chunk.js",
+    "static/js/main.3d10153b.chunk.js"
   ]
 }
