@@ -65,3 +65,11 @@ Your app is ready to be deployed!
 ### `npm run deploy`
 
 Publish build files to [project GitHub Page](https://gabrielizalo.github.io/starwars-planets/).
+
+### `npm run format`
+
+Run Prettier script.
+
+### `npm run lint`
+
+Validate code with eslint rules.
