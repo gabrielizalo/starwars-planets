@@ -4,7 +4,16 @@
 
 # Motivation
 
-Just a React exercise.
+Just a React exercise:
+
+- Implement an autocomplete box with a list of results.
+- Use the [Star Wars API](https://swapi.dev/) to search for planets.
+- When the user hits on one result, this selection should be placed at
+  the bottom as a list.
+- The user has to be able to select as many items as he wants.
+- You can not choose a planet if it was previously selected.
+- The user can delete the selection by clicking on a button on each
+  item of the list.
 
 # Tech Stack
 
@@ -12,21 +21,23 @@ Just a React exercise.
   interfaces.
 - [Create React App](https://github.com/facebook/create-react-app): Set
   up a modern web app by running one command.
+- [Star Wars API](https://swapi.dev/): All the Star Wars data you've
+  ever wanted: Planets, Spaceships, Vehicles, People, Films and Species.
+- [HTML5 Boilerplate](https://html5boilerplate.com/): The web’s most
+  popular front-end template.
+- [MUI React UI framework](https://mui.com/): The React UI library you
+  always wanted.
 - [The Real FavIcon Generator](https://realfavicongenerator.net/):
   Favicon Generator. For real. All browsers. All platforms. Your
   favorite technologies.
 - [npm package gh-pages](https://www.npmjs.com/package/gh-pages):
   Publish files to a gh-pages branch on GitHub (or any other branch
   anywhere else).
-- [MUI React UI framework](https://mui.com/): The React UI library you
-  always wanted.
 - [ESLint](https://eslint.org/): Find and fix problems in your
   JavaScript code.
 - [Airbnb JavaScript Style Guide](https://airbnb.io/javascript/react/):
   A mostly reasonable approach to React and JSX.
 - [Prettier](https://prettier.io/): An opinionated code formatter.
-- [HTML5 Boilerplate](https://html5boilerplate.com/): The web’s most
-  popular front-end template
 
 # StarWars Credits
 
