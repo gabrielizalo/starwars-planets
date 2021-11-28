@@ -3,6 +3,7 @@ import { Box, Container, Grid, useMediaQuery } from '@mui/material';
 
 import Header from '../../components/Header/Header';
 import PlanetsList from '../../components/PlanetsList/PlanetsList';
+import SearchBar from '../../components/SearchBar/SearchBar';
 import starWarsBackgroundLandscape from '../../assets/starwars-planets-bg-landscape.jpg';
 import starWarsBackgroundPortrait from '../../assets/starwars-planets-bg-portrait.jpg';
 
@@ -33,6 +34,7 @@ const Home = function Home() {
           }}
         >
           <Header />
+          <SearchBar />
           <PlanetsList />
         </Grid>
       </Container>
