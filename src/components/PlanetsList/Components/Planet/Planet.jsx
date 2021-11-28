@@ -1,4 +1,5 @@
 import React from 'react';
+import PropTypes from 'prop-types';
 import { Button, Card, CardActionArea, CardContent, Grid, Typography } from '@mui/material';
 
 import iconClimate from '../../../../assets/starwars-planet-icon-climate.png';
@@ -6,7 +7,7 @@ import iconDiameter from '../../../../assets/starwars-planet-icon-diamater.png';
 import iconPopulation from '../../../../assets/starwars-planet-icon-population.png';
 import iconTerrain from '../../../../assets/starwars-planet-icon-terrain.png';
 
-function Planet({ planet }) {
+const Planet = function Planet({ planet }) {
   const styles = {
     bg: {
       backgroundImage: `url(${process.env.PUBLIC_URL}${planet.img})`
@@ -53,6 +54,18 @@ function Planet({ planet }) {
       </Card>
     </Grid>
   );
-}
+};
+
+Planet.propTypes = {
+  planet: PropTypes.exact({
+    id: PropTypes.number.isRequired,
+    name: PropTypes.string.isRequired,
+    img: PropTypes.string.isRequired,
+    diameter: PropTypes.string.isRequired,
+    population: PropTypes.string.isRequired,
+    climate: PropTypes.string.isRequired,
+    terrain: PropTypes.string.isRequired
+  }).isRequired
+};
 
 export default Planet;

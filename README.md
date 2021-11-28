@@ -35,13 +35,16 @@ Just a React exercise:
 - [Airbnb JavaScript Style Guide](https://airbnb.io/javascript/react/):
   A mostly reasonable approach to React and JSX.
 - [Prettier](https://prettier.io/): An opinionated code formatter.
-- [npm package gh-pages](https://www.npmjs.com/package/gh-pages):
-  Publish files to a gh-pages branch on GitHub (or any other branch
-  anywhere else).
-- [npm package semantic-release](https://www.npmjs.com/package/semantic-release):
-  semantic-release automates the whole package release workflow
-  including: determining the next version number, generating the release
-  notes, and publishing the package.
+- [npm packages](https://www.npmjs.com/):
+  - [gh-pages](https://www.npmjs.com/package/gh-pages):
+    Publish files to a gh-pages branch on GitHub (or any other branch
+    anywhere else).
+  - [prop-types](https://www.npmjs.com/package/prop-types):
+    Runtime type checking for React props and similar objects.
+  - [semantic-release](https://www.npmjs.com/package/semantic-release):
+    semantic-release automates the whole package release workflow
+    including: determining the next version number, generating the
+    release notes, and publishing the package.
 
 # StarWars Credits
 

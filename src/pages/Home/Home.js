@@ -6,7 +6,7 @@ import PlanetsList from '../../components/PlanetsList/PlanetsList';
 import starWarsBackgroundLandscape from '../../assets/starwars-planets-bg-landscape.jpg';
 import starWarsBackgroundPortrait from '../../assets/starwars-planets-bg-portrait.jpg';
 
-function Home() {
+const Home = function Home() {
   const isPortrait = useMediaQuery('(orientation: portrait)');
 
   return (
@@ -38,6 +38,6 @@ function Home() {
       </Container>
     </Box>
   );
-}
+};
 
 export default Home;

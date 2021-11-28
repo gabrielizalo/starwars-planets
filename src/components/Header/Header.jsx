@@ -4,7 +4,7 @@ import { Grid, useMediaQuery } from '@mui/material';
 import starWarsLogoLandscape from '../../assets/starwars-planets-header-landscape.png';
 import starWarsLogoPortrait from '../../assets/starwars-planets-header-portrait.png';
 
-function Header() {
+const Header = function Header() {
   const isPortrait = useMediaQuery('(orientation: portrait)');
 
   return (
@@ -18,6 +18,6 @@ function Header() {
       </header>
     </Grid>
   );
-}
+};
 
 export default Header;

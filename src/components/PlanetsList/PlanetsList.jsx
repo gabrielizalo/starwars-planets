@@ -3,7 +3,7 @@ import { Stack } from '@mui/material';
 
 import Planet from './Components/Planet/Planet';
 
-function PlanetsList() {
+const PlanetsList = function PlanetsList() {
   const planet1 = {
     id: 1,
     name: 'Tatooine',
@@ -29,6 +29,6 @@ function PlanetsList() {
       <Planet planet={planet2} />
     </Stack>
   );
-}
+};
 
 export default PlanetsList;
