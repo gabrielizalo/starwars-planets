@@ -15,9 +15,9 @@ const Home = function Home() {
 
   return (
     <Box
-      height="100vh"
+      minHeight="100vh"
       sx={{
-        backgroundAttachment: 'scroll',
+        backgroundAttachment: 'fixed',
         backgroundImage: `url(${
           isPortrait ? starWarsBackgroundPortrait : starWarsBackgroundLandscape
         })`,
