@@ -1,3 +1,17 @@
+# [1.2.0](https://github.com/gabrielizalo/starwars-planets/compare/v1.1.0...v1.2.0) (2021-11-29)
+
+
+### Bug Fixes
+
+* app's background with big list of planets ([1bebcf6](https://github.com/gabrielizalo/starwars-planets/commit/1bebcf6459b1f2346eee97ceeb2e6d130139b02c))
+* precommit script ([349470d](https://github.com/gabrielizalo/starwars-planets/commit/349470d68fdaf4749d3355b1df44c7e1b0c37e3a))
+
+
+### Features
+
+* added Husky package to run Prettier and Lint before every commit ([05cc299](https://github.com/gabrielizalo/starwars-planets/commit/05cc299fbcfdb63294cdcd1fd204dc7dd37325dd))
+* added planets search using Star Wars API ([668feac](https://github.com/gabrielizalo/starwars-planets/commit/668feac7604974ca1487e0c63a852cc2e3e0991e))
+
 # [1.1.0](https://github.com/gabrielizalo/starwars-planets/compare/v1.0.0...v1.1.0) (2021-11-29)
 
 ### Bug Fixes
