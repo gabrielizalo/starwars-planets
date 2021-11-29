@@ -40,6 +40,9 @@ Just a React exercise:
   - [gh-pages](https://www.npmjs.com/package/gh-pages):
     Publish files to a gh-pages branch on GitHub (or any other branch
     anywhere else).
+  - [husky](https://www.npmjs.com/package/husky):
+    Husky improves your commits and more 🐶 woof! Used to run Prettier
+    and Linter before every commit.
   - [prop-types](https://www.npmjs.com/package/prop-types):
     Runtime type checking for React props and similar objects.
   - [semantic-release](https://www.npmjs.com/package/semantic-release):
