@@ -12,7 +12,7 @@
     "format": "prettier --write './**/*.{js,jsx,ts,tsx,css,md,json}'",
     "lint": "eslint --ext js,jsx .",
     "lint:fix": "eslint --ext js,jsx --fix",
-    "precommit": "npm format && npm run lint:fix"
+    "precommit": "npm run format && npm run lint:fix"
   },
   "eslintConfig": {
     "extends": [
