@@ -1,13 +1,17 @@
-import React from 'react';
+import React, { useMemo, useState } from 'react';
 import { Box, Container, Grid, useMediaQuery } from '@mui/material';
 
 import Header from '../../components/Header/Header';
+import planetsContext from '../../common/planetsContext';
 import PlanetsList from '../../components/PlanetsList/PlanetsList';
 import SearchBar from '../../components/SearchBar/SearchBar';
 import starWarsBackgroundLandscape from '../../assets/starwars-planets-bg-landscape.jpg';
 import starWarsBackgroundPortrait from '../../assets/starwars-planets-bg-portrait.jpg';
+import userPlanetsIni from '../../common/constants';
 
 const Home = function Home() {
+  const [planets, setPlanets] = useState(userPlanetsIni);
+  const planetsMemo = useMemo(() => ({ planets, setPlanets }), [planets]);
   const isPortrait = useMediaQuery('(orientation: portrait)');
 
   return (
@@ -34,8 +38,10 @@ const Home = function Home() {
           }}
         >
           <Header />
-          <SearchBar />
-          <PlanetsList />
+          <planetsContext.Provider value={planetsMemo}>
+            <SearchBar />
+            <PlanetsList />
+          </planetsContext.Provider>
         </Grid>
       </Container>
     </Box>

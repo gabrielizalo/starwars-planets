@@ -14,6 +14,7 @@ Just a React exercise:
 - You can not choose a planet if it was previously selected.
 - The user can delete the selection by clicking on a button on each
   item of the list.
+- Use Context API.
 
 # Tech Stack
 
