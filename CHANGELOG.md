@@ -1,3 +1,11 @@
+# [1.3.0](https://github.com/gabrielizalo/starwars-planets/compare/v1.2.0...v1.3.0) (2021-11-29)
+
+
+### Features
+
+* added og:description ([8d4b7b1](https://github.com/gabrielizalo/starwars-planets/commit/8d4b7b125c76106cca7a12cd1c6f510ee1dbb194))
+* updated changelog with prettier ([9ee6825](https://github.com/gabrielizalo/starwars-planets/commit/9ee6825a1677c0d94c22fd49aab9829db135fe02))
+
 # [1.2.0](https://github.com/gabrielizalo/starwars-planets/compare/v1.1.0...v1.2.0) (2021-11-29)
 
 ### Bug Fixes
