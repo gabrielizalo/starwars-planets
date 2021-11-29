@@ -1,6 +1,5 @@
 const userPlanetsIni = [
   {
-    id: 1,
     name: 'Tatooine',
     img: '/assets/planet-tatooine.jpg',
     diameter: '10.465 KM',
@@ -9,7 +8,6 @@ const userPlanetsIni = [
     terrain: 'Desert'
   },
   {
-    id: 2,
     name: 'Alderaan',
     img: '/assets/planet-alderaan.jpg',
     diameter: '12.500 KM',
@@ -18,7 +16,6 @@ const userPlanetsIni = [
     terrain: 'Grasslands, Mountains'
   },
   {
-    id: 3,
     name: 'Geonosis',
     img: '/assets/planet-geonosis.jpg',
     diameter: '11.370 KM',

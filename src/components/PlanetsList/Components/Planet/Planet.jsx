@@ -20,7 +20,7 @@ const Planet = function Planet({ planet }) {
   const { planets, setPlanets } = React.useContext(planetsContext);
 
   const handleDeleteClick = () => {
-    const newPlanets = planets.filter((planetFromList) => planetFromList.id !== planet.id);
+    const newPlanets = planets.filter((planetFromList) => planetFromList.name !== planet.name);
     setPlanets(newPlanets);
   };
 
@@ -72,7 +72,6 @@ const Planet = function Planet({ planet }) {
 
 Planet.propTypes = {
   planet: PropTypes.exact({
-    id: PropTypes.number.isRequired,
     name: PropTypes.string.isRequired,
     img: PropTypes.string.isRequired,
     diameter: PropTypes.string.isRequired,

@@ -7,10 +7,9 @@ import PlanetsList from '../../components/PlanetsList/PlanetsList';
 import SearchBar from '../../components/SearchBar/SearchBar';
 import starWarsBackgroundLandscape from '../../assets/starwars-planets-bg-landscape.jpg';
 import starWarsBackgroundPortrait from '../../assets/starwars-planets-bg-portrait.jpg';
-import userPlanetsIni from '../../common/constants';
 
 const Home = function Home() {
-  const [planets, setPlanets] = useState(userPlanetsIni);
+  const [planets, setPlanets] = useState([]);
   const planetsMemo = useMemo(() => ({ planets, setPlanets }), [planets]);
   const isPortrait = useMediaQuery('(orientation: portrait)');
 

@@ -10,7 +10,7 @@ const PlanetsList = function PlanetsList() {
   return planets && planets.length > 0 ? (
     <Stack spacing={2} sx={{ width: 1 }}>
       {planets.map((planet) => (
-        <Planet key={planet.id} planet={planet} />
+        <Planet key={planet.name} planet={planet} />
       ))}
     </Stack>
   ) : null;
