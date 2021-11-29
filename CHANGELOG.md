@@ -1,3 +1,16 @@
+# [1.1.0](https://github.com/gabrielizalo/starwars-planets/compare/v1.0.0...v1.1.0) (2021-11-29)
+
+
+### Bug Fixes
+
+* removed prettier rules by mistake ([c812703](https://github.com/gabrielizalo/starwars-planets/commit/c81270327f60234a35c9bce8ceb5c25eea0737aa))
+
+
+### Features
+
+* added Context API and PlanetsList component can list and delete planets from it ([0dd0b2c](https://github.com/gabrielizalo/starwars-planets/commit/0dd0b2cb6e9791dd0beff329dce4d607b44e8b8b))
+* added SearchBar componemt ([f517c18](https://github.com/gabrielizalo/starwars-planets/commit/f517c18f23f10d2da4655340e904ddc4efd975e4))
+
 # 1.0.0 (2021-11-28)
 
 
