@@ -12,7 +12,7 @@ const Planet = function Planet({ planet }) {
   const styles = {
     bg: {
       backgroundImage: `url(${process.env.PUBLIC_URL}${planet.img})`,
-      backgroundPosition: 'left top',
+      backgroundPosition: 'right top',
       backgroundRepeat: 'no-repeat',
       backgroundSize: 'auto 100%'
     }
