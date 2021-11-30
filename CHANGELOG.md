@@ -1,3 +1,17 @@
+# [1.4.0](https://github.com/gabrielizalo/starwars-planets/compare/v1.3.0...v1.4.0) (2021-11-30)
+
+
+### Bug Fixes
+
+* planets image position ([564b8ea](https://github.com/gabrielizalo/starwars-planets/commit/564b8eaa724058bb828e1efaaf3b1255864643d5))
+
+
+### Features
+
+* added footer ([e814d66](https://github.com/gabrielizalo/starwars-planets/commit/e814d66e7683e0a927119de9110ff7a08a1f72b6))
+* added images of 7 missing planets ([f6d8d44](https://github.com/gabrielizalo/starwars-planets/commit/f6d8d44143f41cf695b3f5b748b38711566ff052))
+* updating 2 more planet images ([eb7e0fd](https://github.com/gabrielizalo/starwars-planets/commit/eb7e0fd3cf1823baf5de77272df7d6b606ebee62))
+
 # [1.3.0](https://github.com/gabrielizalo/starwars-planets/compare/v1.2.0...v1.3.0) (2021-11-29)
 
 
