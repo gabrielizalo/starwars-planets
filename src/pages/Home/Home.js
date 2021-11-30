@@ -1,6 +1,7 @@
 import React, { useMemo, useState } from 'react';
 import { Box, Container, Grid, useMediaQuery } from '@mui/material';
 
+import Footer from '../../components/Footer/Footer';
 import Header from '../../components/Header/Header';
 import planetsContext from '../../common/planetsContext';
 import PlanetsList from '../../components/PlanetsList/PlanetsList';
@@ -41,6 +42,7 @@ const Home = function Home() {
             <SearchBar />
             <PlanetsList />
           </planetsContext.Provider>
+          <Footer />
         </Grid>
       </Container>
     </Box>
