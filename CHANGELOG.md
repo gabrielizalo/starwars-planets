@@ -1,3 +1,10 @@
+# [1.5.0](https://github.com/gabrielizalo/starwars-planets/compare/v1.4.0...v1.5.0) (2021-12-01)
+
+
+### Features
+
+* added app and build versioning ([8a58cc2](https://github.com/gabrielizalo/starwars-planets/commit/8a58cc290bc5639166933b120750294c9042d7cd))
+
 # [1.4.0](https://github.com/gabrielizalo/starwars-planets/compare/v1.3.0...v1.4.0) (2021-11-30)
 
 
