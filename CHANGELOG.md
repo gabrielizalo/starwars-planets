@@ -1,3 +1,16 @@
+# [1.6.0](https://github.com/gabrielizalo/starwars-planets/compare/v1.5.0...v1.6.0) (2021-12-05)
+
+
+### Bug Fixes
+
+* added version for development ([8a308ab](https://github.com/gabrielizalo/starwars-planets/commit/8a308ab2bbbe8a0621320f2289fe92ed20c8ef15))
+
+
+### Features
+
+* added animation to list of planets ([bd4d229](https://github.com/gabrielizalo/starwars-planets/commit/bd4d229a002632c426323dc7b07f56adc5c1552a))
+* added link to GitHub Releases ([c2cf1fa](https://github.com/gabrielizalo/starwars-planets/commit/c2cf1fa5b40ea45dc946b1206628b45a52834943))
+
 # [1.5.0](https://github.com/gabrielizalo/starwars-planets/compare/v1.4.0...v1.5.0) (2021-12-01)
 
 
