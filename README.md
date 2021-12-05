@@ -38,6 +38,8 @@ Just a React exercise:
 - [Airbnb JavaScript Style Guide](https://airbnb.io/javascript/react/):
   A mostly reasonable approach to React and JSX.
 - [Prettier](https://prettier.io/): An opinionated code formatter.
+- [CDN Bunny.Net](https://bit.ly/AX-SuperCDN): The content delivery platform
+  that truly hops.
 - [npm packages](https://www.npmjs.com/):
   - [gh-pages](https://www.npmjs.com/package/gh-pages):
     Publish files to a gh-pages branch on GitHub (or any other branch
