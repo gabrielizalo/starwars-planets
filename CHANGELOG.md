@@ -1,3 +1,10 @@
+# [1.7.0](https://github.com/gabrielizalo/starwars-planets/compare/v1.6.0...v1.7.0) (2021-12-05)
+
+
+### Features
+
+* added CDN for static files ([04fe989](https://github.com/gabrielizalo/starwars-planets/commit/04fe989ff8f982e83c8e04cba3685fb5f51d5e29))
+
 # [1.6.0](https://github.com/gabrielizalo/starwars-planets/compare/v1.5.0...v1.6.0) (2021-12-05)
 
 
