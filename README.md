@@ -28,6 +28,8 @@ Just a React exercise:
   popular front-end template.
 - [MUI React UI framework](https://mui.com/): The React UI library you
   always wanted.
+  - [TransitionGroup](https://mui.com/components/transitions/#transitiongroup):
+    To animate a component when it is mounted or unmounted.
 - [The Real FavIcon Generator](https://realfavicongenerator.net/):
   Favicon Generator. For real. All browsers. All platforms. Your
   favorite technologies.

@@ -29,7 +29,7 @@ const Planet = function Planet({ planet }) {
       <Card
         display="inline-block"
         style={styles.bg}
-        sx={{ borderRadius: 3, border: 2, borderColor: 'grey.500' }}
+        sx={{ borderRadius: 3, border: 2, borderColor: 'grey.500', marginBottom: 2 }}
       >
         <CardContent>
           <Button
