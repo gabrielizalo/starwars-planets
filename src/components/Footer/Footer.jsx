@@ -16,7 +16,8 @@ const Footer = function Footer() {
         <Typography variant="body1" align="center">
           Just a simple React exercise by &nbsp;
           <Link href="https://twitter.com/gabrielizalo">Gabriel Porras</Link> - {appYear}
-          {appVersion && <span> - {appVersion}</span>}
+          {appVersion && <span> -
+            <Link href="https://github.com/gabrielizalo/starwars-planets/releases">{appVersion}</Link></span>}
           <br />
           <Link href="https://github.com/gabrielizalo/starwars-planets">
             <img alt="StarWars Planets GitHub" src={starWarsLogoGitHub} />
