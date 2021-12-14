@@ -1,3 +1,10 @@
+## [1.7.1](https://github.com/gabrielizalo/starwars-planets/compare/v1.7.0...v1.7.1) (2021-12-14)
+
+
+### Bug Fixes
+
+* fix build after eslint 8 migration and moved back to eslint 7 ([44f19e9](https://github.com/gabrielizalo/starwars-planets/commit/44f19e9f8cbba5b0b752e8dae704c83003017182))
+
 # [1.7.0](https://github.com/gabrielizalo/starwars-planets/compare/v1.6.0...v1.7.0) (2021-12-05)
 
 

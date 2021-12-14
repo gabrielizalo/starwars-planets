@@ -1,6 +1,6 @@
 {
   "name": "starwars-planet-query",
-  "version": "1.7.0",
+  "version": "1.7.1",
   "homepage": "https://gabrielizalo.github.io/starwars-planets",
   "private": true,
   "scripts": {
