@@ -2,7 +2,6 @@
   <img src="assets/readme-header.png" alt="Bear Stone Smart Home" />
 </h1>
 
-
 # Motivation
 
 To have a simple project with all the Must-Have features I'd like to add to any React project.
@@ -17,7 +16,6 @@ Previously just a React exercise that:
 - The user can delete the selection by clicking on a button on each item of the list.
 - Use Context API.
 
-
 # Must-Have Features
 
 - [React](https://reactjs.org/): A JavaScript library for building user interfaces.
@@ -30,6 +28,7 @@ Previously just a React exercise that:
 - [HTML5 Boilerplate](https://html5boilerplate.com/): The web’s most popular front-end template.
 
 - [MUI React UI framework](https://mui.com/): The React UI library you always wanted.
+
   - [TransitionGroup](https://mui.com/components/transitions/#transitiongroup): To animate a component when it is
     mounted or unmounted.
 
@@ -54,7 +53,6 @@ Previously just a React exercise that:
     release workflow including: determining the next version number, generating the release notes, and publishing the
     package.
 
-
 # Must-Have Features TO DO
 
 - [All Social Media Tags](https://moz.com/blog/meta-data-templates-123): Must-Have Social Meta Tags for Twitter, Google,
@@ -76,6 +74,7 @@ Previously just a React exercise that:
 - [React Router](https://reactrouter.com/): React Router is a fully-featured client and server-side routing library for
   React, a JavaScript library for building user interfaces.
   Additional pages to add:
+
   - 404 Error
   - Maintenance
 
@@ -83,12 +82,12 @@ Previously just a React exercise that:
   of any site on the web. Whether you're a business owner, marketer, or developer, Web Vitals can help you quantify the
   experience of your site and identify opportunities to improve.
   Additional pages to validate:
+
   - [Google Web Vitals best practices for single-page apps](https://blog.logrocket.com/google-web-vitals-single-page-apps/)
   - [Optimizing Core Web Vitals on a Next.js app](https://www.patterns.dev/posts/nextjs-casestudy/)
 
 - [StoryBook](https://storybook.js.org/): Build component driven UIs faster — Storybook is an open source tool for
   building UI components and pages in isolation. It streamlines UI development, testing and documentation.
-
 
 # StarWars Credits
 
@@ -103,7 +102,6 @@ Previously just a React exercise that:
 - Planets Images: [Wookieepedia](https://starwars.fandom.com/)
 
 - Small Icons: [Simple Small Icons by icons8](https://icons8.com/icons/small)
-
 
 ## Available Scripts
 
@@ -134,4 +132,3 @@ Publish build files to [project GitHub Page](https://gabrielizalo.github.io/star
 
 Launches the test runner in the interactive watch mode. See the section about
 [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
