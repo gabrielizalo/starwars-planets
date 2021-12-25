@@ -1,3 +1,15 @@
+# [1.8.0](https://github.com/gabrielizalo/starwars-planets/compare/v1.7.1...v1.8.0) (2021-12-25)
+
+
+### Bug Fixes
+
+* lint fixes ([ba123be](https://github.com/gabrielizalo/starwars-planets/commit/ba123beead7188e956e1a24b8955151020331700))
+
+
+### Features
+
+* added Must-have features in readme.md and some readme.md fixes ([c7b5499](https://github.com/gabrielizalo/starwars-planets/commit/c7b549963e96e3c3502c120afa0b7402b51ede77))
+
 ## [1.7.1](https://github.com/gabrielizalo/starwars-planets/compare/v1.7.0...v1.7.1) (2021-12-14)
 
 
