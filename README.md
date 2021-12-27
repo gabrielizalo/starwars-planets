@@ -89,6 +89,14 @@ Previously just a React exercise that:
 - [StoryBook](https://storybook.js.org/): Build component driven UIs faster — Storybook is an open source tool for
   building UI components and pages in isolation. It streamlines UI development, testing and documentation.
 
+- [Accessibility](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_accessibility):
+  Focus management in React, which can improve usability and reduce confusion for both keyboard-only and screenreader
+  users.
+
+- [Error Handling and Logging](https://blog.bitsrc.io/react-error-handling-and-logging-best-practices-4444c57cd666):
+  Front-end developers often overlook error handling and logging. However, if any code segment throws an error, you must
+  handle it correctly. Besides, depending on the situation, there are several ways to manage and log errors in React.
+
 # StarWars Credits
 
 - Logo: [png :egg: egg](https://www.pngegg.com/es/png-evbry)
