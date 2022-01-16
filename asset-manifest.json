@@ -1,21 +1,14 @@
 {
   "files": {
-    "main.js": "https://starwars-planets.b-cdn.net/static/js/main.cf53a30f.chunk.js",
-    "main.js.map": "https://starwars-planets.b-cdn.net/static/js/main.cf53a30f.chunk.js.map",
-    "runtime-main.js": "https://starwars-planets.b-cdn.net/static/js/runtime-main.33104bac.js",
-    "runtime-main.js.map": "https://starwars-planets.b-cdn.net/static/js/runtime-main.33104bac.js.map",
-    "static/js/2.26491b16.chunk.js": "https://starwars-planets.b-cdn.net/static/js/2.26491b16.chunk.js",
-    "static/js/2.26491b16.chunk.js.map": "https://starwars-planets.b-cdn.net/static/js/2.26491b16.chunk.js.map",
+    "main.js": "https://starwars-planets.b-cdn.net/static/js/main.a83912d1.js",
+    "static/media/starwars-planets-header-landscape.png": "https://starwars-planets.b-cdn.net/static/media/starwars-planets-header-landscape.f99c29b80eb8222ae9ee.png",
+    "static/media/starwars-planets-header-portrait.png": "https://starwars-planets.b-cdn.net/static/media/starwars-planets-header-portrait.0c01350d378da4d9a118.png",
+    "static/media/starwars-planets-bg-landscape.jpg": "https://starwars-planets.b-cdn.net/static/media/starwars-planets-bg-landscape.012dcfc9510997b1b7a7.jpg",
+    "static/media/starwars-planets-bg-portrait.jpg": "https://starwars-planets.b-cdn.net/static/media/starwars-planets-bg-portrait.0647d9059d9a66760e44.jpg",
     "index.html": "https://starwars-planets.b-cdn.net/index.html",
-    "static/js/2.26491b16.chunk.js.LICENSE.txt": "https://starwars-planets.b-cdn.net/static/js/2.26491b16.chunk.js.LICENSE.txt",
-    "static/media/starwars-planets-bg-landscape.012dcfc9.jpg": "https://starwars-planets.b-cdn.net/static/media/starwars-planets-bg-landscape.012dcfc9.jpg",
-    "static/media/starwars-planets-bg-portrait.0647d905.jpg": "https://starwars-planets.b-cdn.net/static/media/starwars-planets-bg-portrait.0647d905.jpg",
-    "static/media/starwars-planets-header-landscape.f99c29b8.png": "https://starwars-planets.b-cdn.net/static/media/starwars-planets-header-landscape.f99c29b8.png",
-    "static/media/starwars-planets-header-portrait.0c01350d.png": "https://starwars-planets.b-cdn.net/static/media/starwars-planets-header-portrait.0c01350d.png"
+    "main.a83912d1.js.map": "https://starwars-planets.b-cdn.net/static/js/main.a83912d1.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.33104bac.js",
-    "static/js/2.26491b16.chunk.js",
-    "static/js/main.cf53a30f.chunk.js"
+    "static/js/main.a83912d1.js"
   ]
 }
