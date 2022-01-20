@@ -100,6 +100,9 @@ Previously just a React exercise that:
   Front-end developers often overlook error handling and logging. However, if any code segment throws an error, you must
   handle it correctly. Besides, depending on the situation, there are several ways to manage and log errors in React.
 
+- [The Front-End Checklist](https://frontendchecklist.io/):
+  The Front-End Checklist Application is perfect for modern websites and meticulous developers!
+
 # StarWars Credits
 
 - Logo: [png :egg: egg](https://www.pngegg.com/es/png-evbry)
