@@ -32,7 +32,7 @@ Previously just a React exercise that:
   - [TransitionGroup](https://mui.com/components/transitions/#transitiongroup): To animate a component when it is
     mounted or unmounted.
 
-# Must-Have Features
+# My MUST-HAVE Features
 
 - [semantic-release](https://www.npmjs.com/package/semantic-release): semantic-release automates the whole package
   release workflow including: determining the next version number, generating the release notes, and publishing the
