@@ -4,7 +4,7 @@
 
 # Motivation
 
-To have a simple project with all the Must-Have features I'd like to add to any React project.
+A simple project with all the Must-Have features I'd like to add to any React project.
 
 Previously just a React exercise that:
 
