@@ -14,7 +14,12 @@ const Footer = function Footer() {
     <Grid item sx={{ marginTop: 5 }}>
       <footer>
         <Typography variant="body1" align="center">
-          Just a simple React exercise by &nbsp;
+          A simple project with all the <strong>Must-Have features</strong> I&apos;d like to add to
+          any <strong>React</strong> project.
+          <br />
+          Info about features in &nbsp;
+          <Link href="https://github.com/gabrielizalo/starwars-planets">GitHub</Link>. Created by
+          &nbsp;
           <Link href="https://twitter.com/gabrielizalo">Gabriel Porras</Link> - {appYear}
           {appVersion && (
             <span>
