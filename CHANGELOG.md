@@ -1,3 +1,10 @@
+## [1.9.1](https://github.com/gabrielizalo/starwars-planets/compare/v1.9.0...v1.9.1) (2022-01-21)
+
+
+### Bug Fixes
+
+* descriptions from Twitter and OG because info repeated from title. ([1ddb702](https://github.com/gabrielizalo/starwars-planets/commit/1ddb70224eee1a461d9f95aebde0a64665f09741))
+
 # [1.9.0](https://github.com/gabrielizalo/starwars-planets/compare/v1.8.0...v1.9.0) (2022-01-21)
 
 
