@@ -16,24 +16,27 @@ Previously just a React exercise that:
 - The user can delete the selection by clicking on a button on each item of the list.
 - Use Context API.
 
-# Must-Have Features
+# Features
 
 - [React](https://reactjs.org/): A JavaScript library for building user interfaces.
 
 - [Create React App](https://github.com/facebook/create-react-app): Set up a modern web app by running one command.
 
+- [prop-types](https://www.npmjs.com/package/prop-types): Runtime type checking for React props and similar objects.
+
 - [Star Wars API](https://swapi.dev/): All the Star Wars data you've ever wanted: Planets, Spaceships, Vehicles, People,
   Films and Species.
-
-- [HTML5 Boilerplate](https://html5boilerplate.com/): The web’s most popular front-end template.
 
 - [MUI React UI framework](https://mui.com/): The React UI library you always wanted.
 
   - [TransitionGroup](https://mui.com/components/transitions/#transitiongroup): To animate a component when it is
     mounted or unmounted.
 
-- [The Real FavIcon Generator](https://realfavicongenerator.net/): Favicon Generator. For real. All browsers. All
-  platforms. Your favorite technologies.
+# Must-Have Features
+
+- [semantic-release](https://www.npmjs.com/package/semantic-release): semantic-release automates the whole package
+  release workflow including: determining the next version number, generating the release notes, and publishing the
+  package.
 
 - [ESLint](https://eslint.org/): Find and fix problems in your JavaScript code.
 
@@ -41,29 +44,30 @@ Previously just a React exercise that:
 
 - [Prettier](https://prettier.io/): An opinionated code formatter.
 
-- [CDN Bunny.Net](https://bit.ly/AX-SuperCDN): The content delivery platform that truly hops.
+- [husky](https://www.npmjs.com/package/husky): Husky improves your commits and more 🐶 woof! Used to run Prettier and
+  Linter before every commit.
 
-- [npm packages](https://www.npmjs.com/):
-  - [gh-pages](https://www.npmjs.com/package/gh-pages): Publish files to a gh-pages branch on GitHub (or any other
-    branch anywhere else).
-  - [husky](https://www.npmjs.com/package/husky): Husky improves your commits and more 🐶 woof! Used to run Prettier and
-    Linter before every commit.
-  - [prop-types](https://www.npmjs.com/package/prop-types): Runtime type checking for React props and similar objects.
-  - [semantic-release](https://www.npmjs.com/package/semantic-release): semantic-release automates the whole package
-    release workflow including: determining the next version number, generating the release notes, and publishing the
-    package.
+- [HTML5 Boilerplate](https://html5boilerplate.com/): The web’s most popular front-end template.
 
-# Must-Have Features TO DO
+- [The Real FavIcon Generator](https://realfavicongenerator.net/): Favicon Generator. For real. All browsers. All
+  platforms. Your favorite technologies.
 
 - [All Social Media Tags](https://moz.com/blog/meta-data-templates-123): Must-Have Social Meta Tags for Twitter, Google,
   Facebook, & More.
 
-- [React Query](https://react-query.tanstack.com/): Performant and powerful data synchronization for React Fetch, cache
-  and update data in your React and React Native applications all without touching any “global state”.
+- **CDN**: For this project used [Bunny.Net](https://bit.ly/AX-SuperCDN): The content delivery platform that truly hops.
+
+- **Hosting**: For this project used **GitHub Pages** with [gh-pages](https://www.npmjs.com/package/gh-pages): Publish files to a gh-pages branch
+  on GitHub (or any other branch anywhere else).
+
+# Must-Have Features TO DO
 
 - [Canonical ESLint Config](https://github.com/gajus/eslint-config-canonical): The most comprehensive code style guide.
   Canonical consists of 1,000+ rules (40% auto-fixable), some of which are custom written for Canonical. Canonical goal
   is to reduce noise in code version control and promote use of the latest ES features.
+
+- [React Query](https://react-query.tanstack.com/): Performant and powerful data synchronization for React Fetch, cache
+  and update data in your React and React Native applications all without touching any “global state”.
 
 - [Testing Library](https://testing-library.com/): Simple and complete testing utilities that encourage good testing
   practices.
