@@ -1,3 +1,17 @@
+# [1.9.0](https://github.com/gabrielizalo/starwars-planets/compare/v1.8.0...v1.9.0) (2022-01-21)
+
+
+### Bug Fixes
+
+* updated libs and removed mini-css-extract-plugin lib from build error ([ed87a08](https://github.com/gabrielizalo/starwars-planets/commit/ed87a080308d44569c81fdba636098e535f6f5ab))
+
+
+### Features
+
+* updated facebook open graph ([d0461f7](https://github.com/gabrielizalo/starwars-planets/commit/d0461f7d787360b2dab258bcb676db217ba47691))
+* updated footer component with correct info about the project ([8408f86](https://github.com/gabrielizalo/starwars-planets/commit/8408f8608e72f30fbc5d3d89e357ec19a1842c65))
+* updated twitter card ([e1b335d](https://github.com/gabrielizalo/starwars-planets/commit/e1b335d48bae39821502fbf05d847617cab8fc48))
+
 # [1.8.0](https://github.com/gabrielizalo/starwars-planets/compare/v1.7.1...v1.8.0) (2021-12-25)
 
 
