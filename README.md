@@ -55,9 +55,6 @@ Previously just a React exercise that:
 
 # Must-Have Features TO DO
 
-- [Remove mini-css-extract-plugin dependency](https://github.com/facebook/create-react-app/issues/11930): Added after
-  problem with a new version of React Scripts.
-
 - [All Social Media Tags](https://moz.com/blog/meta-data-templates-123): Must-Have Social Meta Tags for Twitter, Google,
   Facebook, & More.
 
