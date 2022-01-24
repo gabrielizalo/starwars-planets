@@ -16,12 +16,6 @@
     "deploy": "gh-pages -d build",
     "test": "react-scripts test"
   },
-  "eslintConfig": {
-    "extends": [
-      "react-app",
-      "react-app/jest"
-    ]
-  },
   "prettier": {
     "semi": true,
     "tabWidth": 2,
