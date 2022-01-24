@@ -62,10 +62,6 @@ Previously just a React exercise that:
 
 # Must-Have Features TO DO
 
-- [Canonical ESLint Config](https://github.com/gajus/eslint-config-canonical): The most comprehensive code style guide.
-  Canonical consists of 1,000+ rules (40% auto-fixable), some of which are custom written for Canonical. Canonical goal
-  is to reduce noise in code version control and promote use of the latest ES features.
-
 - [React Query](https://react-query.tanstack.com/): Performant and powerful data synchronization for React Fetch, cache
   and update data in your React and React Native applications all without touching any “global state”.
 
