@@ -62,6 +62,8 @@ Previously just a React exercise that:
 
 # Must-Have Features TO DO
 
+- [Keep repo package dependencies up to date](https://dev.to/daniloab/using-github-actions-to-improve-your-developer-experience-29n7)
+
 - [React Query](https://react-query.tanstack.com/): Performant and powerful data synchronization for React Fetch, cache
   and update data in your React and React Native applications all without touching any “global state”.
 
