@@ -1,3 +1,10 @@
+# [1.10.0](https://github.com/gabrielizalo/starwars-planets/compare/v1.9.1...v1.10.0) (2022-02-28)
+
+
+### Features
+
+* removed canonical as a must-have feature ([3d815f7](https://github.com/gabrielizalo/starwars-planets/commit/3d815f7171f5723a8cfcc1d371e4d954d2215e0a))
+
 ## [1.9.1](https://github.com/gabrielizalo/starwars-planets/compare/v1.9.0...v1.9.1) (2022-01-21)
 
 
