@@ -1,3 +1,10 @@
+# [1.11.0](https://github.com/gabrielizalo/starwars-planets/compare/v1.10.0...v1.11.0) (2022-06-16)
+
+
+### Features
+
+* added new must have feature VijeJS ([cf01ac4](https://github.com/gabrielizalo/starwars-planets/commit/cf01ac49e6480e949a1fc05a56227d029a8f5f8c))
+
 # [1.10.0](https://github.com/gabrielizalo/starwars-planets/compare/v1.9.1...v1.10.0) (2022-02-28)
 
 
