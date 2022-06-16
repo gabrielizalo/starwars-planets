@@ -143,6 +143,8 @@ Run Prettier script and fix code with eslint rules previously to a Pull Request.
 
 Publish build files to [project GitHub Page](https://gabrielizalo.github.io/starwars-planets/).
 
+Previous do a pull origin to get the latest commits.
+
 ### `npm test`
 
 Launches the test runner in the interactive watch mode. See the section about
