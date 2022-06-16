@@ -1,6 +1,6 @@
 {
   "name": "starwars-planet-query",
-  "version": "1.10.1",
+  "version": "1.10.2",
   "homepage": "https://gabrielizalo.github.io/starwars-planets",
   "private": true,
   "scripts": {
@@ -13,8 +13,7 @@
     "build:appversion": "APP_VERSION=$npm_package_version  &&  sed -i -- 's/%APP_VERSION%/'$APP_VERSION'/g' build/index.html",
     "build:buildversion": "BUILD_VERSION=$(date +%Y-%m-%d)-$(date +%T)  &&  sed -i -- 's/%BUILD_VERSION%/'$BUILD_VERSION'/g' build/index.html",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
-    "test": "react-scripts test"
+    "deploy": "gh-pages -d build"
   },
   "prettier": {
     "semi": true,
