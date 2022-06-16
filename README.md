@@ -62,6 +62,8 @@ Previously just a React exercise that:
 
 # Must-Have Features TO DO
 
+- [Migrate from Create React App to ViteJS](https://fullstackcode.dev/2022/02/02/migrating-create-react-app-application-to-vite/)
+
 - [Keep repo package dependencies up to date](https://dev.to/daniloab/using-github-actions-to-improve-your-developer-experience-29n7)
 
 - [React Query](https://react-query.tanstack.com/): Performant and powerful data synchronization for React Fetch, cache
